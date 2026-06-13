@@ -12,7 +12,7 @@ export function Login() {
     <div className="login-page">
       <div className="login-card">
         <div className="login-logo">
-          <div className="login-logo-icon">T</div>
+          <div className="login-logo-icon">TV</div>
           <span className="login-logo-name">TrazaViva</span>
         </div>
         <p className="login-tagline">
